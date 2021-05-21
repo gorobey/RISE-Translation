@@ -474,7 +474,7 @@ $lang["client_replied"] = "Client replied";
 $lang["change_status"] = "Cambia stato";
 $lang["last_activity"] = "Ultima attività";
 $lang["open_tickets"] = "Tikets aperti";
-$lang["ticket_status"] = "Stato Tichets";
+$lang["ticket_status"] = "Stato Tickets";
 
 /* ticket types */
 
